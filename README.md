@@ -119,7 +119,7 @@ pip install pandas scikit-learn imbalanced-learn numpy
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JhArantes/Risco_de_Inadimplencia-Regressao_Logistica
 cd seu-repositorio
 ```
 
